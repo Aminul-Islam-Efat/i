@@ -69,4 +69,4 @@ As an open-source initiative designed to push the boundaries of systems security
 Please thoroughly review the project's internal code architecture guidelines and standard code-of-conduct models before submitting Pull Requests (PRs).
 
 ---
-**Lead Language Architect & Maintainer:** [Aminul Islam Efat](https://github.com)
+**Lead Language Architect & Maintainer:** [Aminul Islam Efat](https://github.com/Aminul-Islam-Efat)
